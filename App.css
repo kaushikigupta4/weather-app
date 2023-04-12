@@ -1,0 +1,36 @@
+.weatherbg{
+  background: url('https://i.pinimg.com/736x/6e/e4/d2/6ee4d20cdc169832db8a0b4cca408266--dust-storm-storm-clouds.jpg');
+  height: 70vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  background-blend-mode:saturation;
+
+}
+.heading{
+  color: white;
+  font-weight: bold;
+}
+.weatheresultbox{
+  margin:auto;
+  width:500px;
+  height: 300px;
+
+}
+.weathericon{
+  width:100px;
+  height:100px;
+  margin-top: 20px;
+}
+.weathercity{
+  font-size:40px;
+}
+.weathertemp{
+  font-weight:bold;
+  font-size: 50px;
+
+}
