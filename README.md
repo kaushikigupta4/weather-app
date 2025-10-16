@@ -1,0 +1,1 @@
+A real-time weather application built with React (or your stack) that allows users to check the current weather conditions for any city worldwide. It fetches data from a weather API and displays temperature, humidity, wind speed, and weather conditions in a clean and user-friendly interface.
